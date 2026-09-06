@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=220&section=header&text=issa&fontSize=78&fontColor=f5f5f5&fontAlignY=35&desc=grok%20·%20claude%20·%20agent%20harnesses%20·%20bots&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="issa">
-</div>
+<img src="./header.jpg" width="100%" alt="Issa: grok · claude · agent harnesses · bots">
 
 <div align="center">
   <a href="https://x.com/issatheblows"><img src="https://img.shields.io/badge/x-%40issatheblows-111111?style=for-the-badge&logo=x&logoColor=ffffff" alt="x"></a>
@@ -25,35 +23,38 @@ const issa = {
 ### 🧰 Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js">
+  <img src="https://img.shields.io/badge/viem-111111?style=for-the-badge&logo=ethereum&logoColor=ffffff" alt="viem">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS3">
-  <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram">
+  <img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=ffffff" alt="Solidity">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=claude&logoColor=ffffff" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=ffffff" alt="Grok">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/FFmpeg-111111?style=for-the-badge&logo=ffmpeg&logoColor=ffffff" alt="FFmpeg">
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=claude&logoColor=ffffff" alt="Claude Code">
 </p>
 
 ### 🛠 What I work on
 
 | Area | What it means in practice |
 |---|---|
-| 🤖 **Agent harnesses** | Grok and Claude loops with written rules, memory in files, and a rerun that does not invent the last step |
-| 🛰️ **Bots** | Telegram shops, parsers, and workers that stay up when the chat is closed |
-| 🧩 **Small systems** | landings, local servers, stores — the boring layer a model can actually drive |
-| 🧠 **Markdown brains** | specs the agent is not allowed to ignore; if it is not in the vault, it did not happen |
+| 🤖 **Agent harnesses** | Grok and Claude loops that run inside written rules, leave a dated receipt, and can be rerun without me in the room |
+| 🛰️ **Bots** | Telegram shops, parsers, and workers that keep state in files instead of in the last chat |
+| 🧩 **Small systems** | landings, local servers, stores — the boring layer an agent can actually drive |
+| 🧠 **Markdown brains** | one vault, four files, no hidden context; if it is not written down, the model did not know it |
+| 🎬 **Content pipelines** | images, clips, and renders scripted end to end, same as the rest of the stack |
 
-> Nothing here is a vibe. If a bot did it, there is a log.
+> Nothing here is a vibe. If a number is on screen, there is a log for it.
 
-### 📊 Stats
+### ⚔ Now
+
+Wiring Grok and Claude into one harness.  
+The model is the part you swap. The rules stay.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issatheblows&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issatheblows&layout=compact&theme=github_dark&hide_border=true" alt="languages">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
 </div>
 
-<p align="center"><sub>dark theme, same grain as the avatar</sub></p>
+<img src="./footer.jpg" width="100%" alt="">
