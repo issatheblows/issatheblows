@@ -1,4 +1,4 @@
-<img src="./header.jpg" width="100%" alt="Issa: grok · claude · agent harnesses · bots">
+<img src="https://i.imgur.com/WIKpVYs.jpeg" width="100%" alt="Issa — grok · claude · agent harnesses · bots">
 
 <div align="center">
   <a href="https://x.com/issatheblows"><img src="https://img.shields.io/badge/x-%40issatheblows-111111?style=for-the-badge&logo=x&logoColor=ffffff" alt="x"></a>
@@ -54,7 +54,7 @@ Wiring Grok and Claude into one harness.
 The model is the part you swap. The rules stay.
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=111111&quoteColor=eaeaea&authorColor=8a8a8a&symbolColor=5a5a5a&quote=The%20model%20is%20the%20part%20you%20swap.%20The%20rules%20stay.&author=issa" alt="quote">
 </div>
 
-<img src="./footer.jpg" width="100%" alt="">
+<img src="https://i.imgur.com/ibq9ISJ.jpeg" width="100%" alt="">
